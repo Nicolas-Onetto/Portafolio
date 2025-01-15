@@ -2,6 +2,7 @@
   "name": "portafolio",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://tu-usuario.github.io/tu-repositorio",
   "type": "module",
   "scripts": {
     "dev": "vite",
